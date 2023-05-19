@@ -139,8 +139,7 @@ li {
 /* ************ */
 /* HERO SECTION */
 
-.header-hero-blog-inner .container,
-.article-blog-inner .container {
+.header-hero-blog-inner .container {
   display: flex;
   flex-direction: column;
   justify-content: end;
