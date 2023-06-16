@@ -164,9 +164,20 @@ li {
 .article-blog {
   padding-top: 2.125rem;
 }
+.article-blog div,
+.recent-post div {
+  overflow: hidden;
+}
 .article-blog img,
 .recent-post img {
+  transform-origin: bottom left;
+  transition: 0.4s ease-in-out;
   margin-bottom: 0.875rem;
+  cursor: pointer;
+}
+.article-blog img:hover,
+.recent-post img:hover {
+  transform: scale(1.05);
 }
 .article-date {
   color: #000;
