@@ -193,7 +193,7 @@ li {
 .view-btn {
   color: #000000;
   font-weight: 700;
-  text-transform: capitalize;
+  text-transform: uppercase;
   display: block;
   margin-bottom: 2.688rem;
 }
