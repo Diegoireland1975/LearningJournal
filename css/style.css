@@ -190,7 +190,7 @@ li {
 .article-blog div:nth-child(3) .article-body-preview {
   margin-bottom: 0.5rem;
 }
-.view {
+.view-btn {
   color: #000000;
   font-weight: 700;
   text-transform: capitalize;
